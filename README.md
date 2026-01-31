@@ -48,7 +48,8 @@ plt.show()
 ```
 
 ## Output:
-<img width="1033" height="762" alt="image" src="https://github.com/user-attachments/assets/9f3edff2-e31e-41f3-81af-cf2f418153d4" />
+<img width="1033" height="762" alt="image" src="https://github.com/user-attachments/assets/23811224-3ba0-4188-8cf9-5ca90e7c704c" />
+
 
 
 
